@@ -1,0 +1,37 @@
+[
+  {
+    "StudentId": 1,
+    "FirstName": "Abigail",
+    "LastName": "Adams",
+    "ProgramName": "Education",
+    "GPA": 3.5
+  },
+  {
+    "StudentId": 2,
+    "FirstName": "Bob",
+    "LastName": "Brown",
+    "ProgramName": "Software Development",
+    "GPA": 2.3
+  },
+  {
+    "StudentId": 3,
+    "FirstName": "Doug",
+    "LastName": "Douglas",
+    "ProgramName": "Building Construction",
+    "GPA": 3.8
+  },
+  {
+    "StudentId": 4,
+    "FirstName": "John",
+    "LastName": "Smith",
+    "ProgramName": "Culinary Arts",
+    "GPA": 1.4
+  },
+  {
+    "StudentId": 5,
+    "FirstName": "Jane",
+    "LastName": "White",
+    "ProgramName": "Agriculture",
+    "GPA": 2.9
+  }
+]
