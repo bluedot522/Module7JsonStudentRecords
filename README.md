@@ -10,4 +10,4 @@ Records can be loaded by clicking the 'Load from JSON' button.
 ## Clearing the display
 The display can be cleared by clicking the 'Clear Display' button. This will remove information from the display, as well as any information previously entered in the program.
 ## Limitations
-A few limitations include error messages being displayed one at a time. Only JSON files may be loaded and the file must be named "students.json". If any changes are made to the JSON file outside of the program, it will not reload until the 'Load from JSON' is clicked again.
+A few limitations include error messages being displayed one at a time. Only JSON files may be loaded and the file must be named "students.json". If any changes are made to the JSON file outside of the program, it will not reload until the 'Load from JSON' button is clicked again.
